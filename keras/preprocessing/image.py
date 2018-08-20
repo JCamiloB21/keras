@@ -23,3 +23,4 @@ ImageDataGenerator = image.ImageDataGenerator
 Iterator = image.Iterator
 NumpyArrayIterator = image.NumpyArrayIterator
 DirectoryIterator = image.DirectoryIterator
+transform_matrix_offset_center= image.transform_matrix_offset_center
